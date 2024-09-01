@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mad-mitt
+- 👀 I’m interested in coding, technology and data analysis
+- 🌱 I’m currently learning python and c programming
